@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:background="#0099cc"
+             tools:context="oks.dev.com.simplewebapp.WebActivity">
+
+    <WebView android:id="@+id/wvMain"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent" android:visibility="visible">
+
+    </WebView>
+    <View android:id="@+id/vProgress"
+          android:layout_width="match_parent" android:layout_height="match_parent"
+          android:background="#000000"></View>
+</FrameLayout>

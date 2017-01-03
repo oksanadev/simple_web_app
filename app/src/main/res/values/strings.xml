@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InteliQUAL</string>
+
+    <string name="errorTitle">Unable to connect to the Internet</string>
+    <string name="error_msg">If you are using cellular data, please try turning Wi-Fi off.\nPlease
+        check your Internet connection and try again.
+    </string>
+    <string name="btn_ok">Ok</string>
+</resources>
